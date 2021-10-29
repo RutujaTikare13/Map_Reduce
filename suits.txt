@@ -1,0 +1,10 @@
+club 13
+spade 4
+hearts 11
+diamonds 2
+hearts 13
+diamonds 12
+club 5
+hearts 10
+hearts 9
+hearts 1
